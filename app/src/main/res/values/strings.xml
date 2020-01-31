@@ -1,4 +1,8 @@
 <resources>
+<<<<<<< Updated upstream
     <string name="app_name">Kotlin Sec2</string>
     <string name="NicknameText">TextView</string>
+=======
+    <string name="app_name">rishu</string>
+>>>>>>> Stashed changes
 </resources>

@@ -8,8 +8,13 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
+<<<<<<< Updated upstream
         applicationId "com.example.kotlinsec2"
         minSdkVersion 18
+=======
+        applicationId "com.example.rishu"
+        minSdkVersion 15
+>>>>>>> Stashed changes
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
@@ -21,10 +26,13 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+<<<<<<< Updated upstream
 
     dataBinding{
         enabled = true
     }
+=======
+>>>>>>> Stashed changes
 }
 
 dependencies {
