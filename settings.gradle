@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< Updated upstream
 rootProject.name='Kotlin Sec2'
+=======
+rootProject.name='rishu'
+>>>>>>> Stashed changes
