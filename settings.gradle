@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='anroid 2'
+rootProject.name='kotlinsec2'
