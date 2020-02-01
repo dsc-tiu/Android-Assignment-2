@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+                                                              
+                                                       
+                                                   
+
+    
+                 
+                         
+                                                  
+           
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".MainActivity" android:tag="layout/activity_main_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="20dp"
+            android:hint="Enter your name"
+            android:tag="binding_1"       
+            android:textSize="30sp" />
+
+
+        <EditText
+            android:id="@+id/age"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginHorizontal="20dp"
+            android:hint="Enter your age"
+            android:tag="binding_2"      
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/occupation"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginHorizontal="20dp"
+            android:hint="Enter your occupation"
+            android:tag="binding_3"             
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/sent"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="binding_4"       
+            android:textSize="30sp"
+            android:visibility="gone" />
+
+
+        <Button
+            android:id="@+id/button"
+            android:text="OUTPUT"
+            android:textSize="30sp"
+            android:layout_width="300dp"
+            android:layout_height="80dp"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="100dp" />
+
+    </LinearLayout>
+         
